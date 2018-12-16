@@ -1,4 +1,4 @@
-# \<chop-list-bc-login\>
+# \<chop-list-uic-login\>
 
 
 

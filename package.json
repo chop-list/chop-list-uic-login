@@ -1,7 +1,12 @@
 {
-  "name": "chop-list-bc-login",
-  "main": "chop-list-bc-login.js",
+  "name": "chop-list-uic-login",
+  "main": "chop-list-uic-login.js",
+  "scripts":{
+    "eslint": "./node_modules/.bin/eslint ."
+  },
   "dependencies": {
+    "@polymer/paper-button": "github:PolymerElements/paper-button",
+    "@polymer/paper-input": "github:PolymerElements/paper-input",
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {

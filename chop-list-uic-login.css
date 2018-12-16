@@ -1,0 +1,13 @@
+:host {
+    display: block;
+}
+
+.button {
+    display: block;
+    float: right;
+}
+
+.link {
+    color: darkblue;
+    text-transform: none;
+}
